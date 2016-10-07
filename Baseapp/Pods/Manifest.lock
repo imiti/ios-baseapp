@@ -11,7 +11,6 @@ PODS:
   - RxSwift (3.0.0-beta.2)
   - RxTests (3.0.0-beta.2):
     - RxSwift (~> 3.0.0-beta.2)
-  - SwiftyJSON (3.1.1)
 
 DEPENDENCIES:
   - Alamofire (~> 4.0)
@@ -21,7 +20,6 @@ DEPENDENCIES:
   - RxCocoa (= 3.0.0-beta.2)
   - RxSwift (= 3.0.0-beta.2)
   - RxTests (= 3.0.0-beta.2)
-  - SwiftyJSON
 
 SPEC CHECKSUMS:
   Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
@@ -31,8 +29,5 @@ SPEC CHECKSUMS:
   RxCocoa: 1dd105d8a4e18034ccd7bd6d136445363ce67c8e
   RxSwift: 0ea939d7d97cb70657190ffde8dc2a9b455778fc
   RxTests: 9b696439878a1c7653bb55853af027fc261d0635
-  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
 
-PODFILE CHECKSUM: d832c63c8c56a69b37c067acf65a1b89184b576c
-
-COCOAPODS: 1.1.0.rc.2
+COCOAPODS: 0.39.0
