@@ -8,7 +8,6 @@ target 'Baseapp' do
   pod 'Alamofire', '~> 4.0'
   pod 'AlamofireObjectMapper', '~> 4.0'
   pod 'ObjectMapper', '~> 2.1'
-  pod 'SwiftyJSON'
 end
 
 target 'BaseappTests' do
